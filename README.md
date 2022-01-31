@@ -10,7 +10,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-'''java
+```js
 import SoftwareDeveloper from 'mikebrandin1';
 
 class Bio extends SoftwareDeveloper {
@@ -26,5 +26,5 @@ class Skills extends SoftwareDeveloper {
   databases  = ['MySQL'];
   frameworks = ['AWS'];
 }
-'''
+```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
