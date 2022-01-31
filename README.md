@@ -27,4 +27,4 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['AWS'];
 }
 ```
-<img src="https://media.giphy.com/media/s0aWeAV8znLPN9LVIq/giphy.gif" width="60"> 
+<img src="https://media.giphy.com/media/s0aWeAV8znLPN9LVIq/giphy.gif" width="200"> 
