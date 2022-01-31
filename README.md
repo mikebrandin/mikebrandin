@@ -8,7 +8,7 @@
 [![GitHub mikebrandin1](https://img.shields.io/github/followers/mikebrandin1?label=follow&style=social)](https://github.com/mikebrandin1)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="50"> A little more about me...  
 
 ```js
 import SoftwareDeveloper from 'mikebrandin1';
@@ -27,4 +27,4 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['AWS'];
 }
 ```
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="60"> 
