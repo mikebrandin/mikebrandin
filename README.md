@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: mikejbrandin](https://img.shields.io/twitter/follow/mikejbrandin?style=social)](https://twitter.com/mikejbrandin)
-[![Linkedin: mikebrandin](https://img.shields.io/badge/-mikebrandin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikebrandin/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: mikebrandin](https://img.shields.io/badge/-mikebrandin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikebrandin/)](https://www.linkedin.com/in/mikebrandin/)
 [![GitHub mikebrandin1](https://img.shields.io/github/followers/mikebrandin1?label=follow&style=social)](https://github.com/mikebrandin1)
 
 
