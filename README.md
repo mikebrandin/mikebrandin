@@ -26,5 +26,5 @@ class Skills extends SoftwareDeveloper {
   databases  = ['MySQL'];
   frameworks = ['AWS'];
 }
-
+'''
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
