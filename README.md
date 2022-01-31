@@ -1,5 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="230">
-<h2> Hi, I'm Mike Brandin!:wave:
+<img align='right' src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="230"><h2> Hi, I'm Mike Brandin!:wave:
 <p><em>CS Student at <a href="https://www.clemson.edu/">Clemson University Honors College </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Student Assistant at <a href="https://ccit.clemson.edu/">CCIT</a><img src="https://media.giphy.com/media/3oKIPh0WJ9iNDewH4s/giphy.gif" width="30"> 
 </em></p>
 
