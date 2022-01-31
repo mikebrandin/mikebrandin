@@ -1,4 +1,4 @@
-<h2> Hi, I'm Mike Brandin! <img src="https://media3.giphy.com/media/KpJ47gKe6b7v7xQyWj/giphy360p.mp4?cid=ecf05e47rrsfeqikkhp9cp9q6ovvvsqh32ibtyccajxp30sb&rid=giphy360p.mp4&ct=v&cc=en" width="50"></h2>
+<h2> Hi, I'm Mike Brandin! <img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>CS Student at <a href="https://www.clemson.edu/">Clemson University Honors College</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Student Assistant at <a href="https://ccit.clemson.edu/">CCIT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -18,7 +18,7 @@ class Bio extends SoftwareDeveloper {
   pronouns = 'he/him';
   school   = 'Clemson University';
   major    = 'computer science';
-  location = 'Columbia, SC';
+  location = 'Clemson, SC';
 }
 
 class Skills extends SoftwareDeveloper {
