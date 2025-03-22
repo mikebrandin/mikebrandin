@@ -19,7 +19,7 @@
   - Automation and Pipelines
   - API / Web Development
   - Unix Scripting
-- Passionate about building **scalable, high-resiliency, high-availability services** on **Public and Private Cloud platforms**  
+- Focused on building **scalable, high-resiliency, high-availability applications** on **Public and Private Cloud platforms**  
 
 ### 🚀 Currently Exploring  
 - 🧠 **Gen AI & LLMs**  
@@ -29,8 +29,6 @@
 ---
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikebrandin&layout=compact&hide=HTML&theme=github_dark"></p>
-
----
 
 ---
 
