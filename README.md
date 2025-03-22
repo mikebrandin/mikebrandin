@@ -19,7 +19,7 @@
   - Automation and Pipelines
   - API / Web Development
   - Unix Scripting
-- Passionate about building **scalable, high-resiliency, high-availability applications** on both **Public and Private Cloud platforms**  
+- Passionate about building **scalable, high-resiliency, high-availability services** on **Public and Private Cloud platforms**  
 
 ### 🚀 Currently Exploring  
 - 🧠 **Gen AI & LLMs**  
